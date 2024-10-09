@@ -1,0 +1,11 @@
+:root{
+    --selectionColor: rgba(255,255,255,0.2);
+    --textFontColor: #ffffff;
+    --backgroundColor: #212121;
+    --navColor: #171717;
+    --floatingUIColor: rgba(0,0,0,0.9);
+}
+
+.infoButton{
+    background: url('../media/info.png');
+}
