@@ -8,7 +8,7 @@
 // URL options can override the options below.
 // Options set through the menu can override both until the page is refreshed.
 options = {
-    username: 'inter-dev',
+    username: 'made by inter-dev',
     avatar: 'https://cdn.discordapp.com/embed/avatars/1.png',
     verified: false,
     noUser: false,
